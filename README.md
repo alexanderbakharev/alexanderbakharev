@@ -2,49 +2,70 @@
 
 ---
 
-## Head of Production · AI Pipeline Architect | Multi-Agent Systems · Generative AI · MCP | €6M+ P&L | 70+ Shipped Titles
+## AI Production Lead · Head of Production | Multi-Agent Systems · Generative AI · MCP | €6M+ P&L | 70+ Shipped Titles
 
-15+ years building tech operations across gaming, SaaS, and AI. Three companies led as hired executive — $1.2M+ raised, €6M+ P&L, teams to 150+ across 5 countries. Last 3 years focused on AI-augmented production: multi-agent systems, generative pipelines at 10M+ scale, in-house ML deployments saving €700K–$3M annually. Anthropic-certified across the full Claude / MCP / Agent Skills stack.
+Head of Production specializing in AI-driven content pipelines and multi-agent systems. 15+ years in game development: distributed teams up to 150+, €6M+ annual P&L, 70+ shipped titles. Last three years focused on cutting production costs with AI — most recently a generative 3D pipeline delivering a 10M+ item catalogue at €400K against a ~€2.8M baseline, and agent systems running live business operations 24/7.
 
 ## Current
 
-Independent AI production consulting for gaming and technology companies — embedded as execution lead, not advisor.
+**AI Production Lead · Head of Production** — Coordination Systems Consulting (Independent) · Lisbon, Portugal · Remote-EU
 
-- Architected and deployed AI pipeline for mass 3D asset generation with automated 2D rendering: 10M+ items, 40% procedural generation. Estimated cost savings ~$3M vs. manual production baseline.
-- Built and shipped multi-agent AI systems: 24/7 autonomous community host (Discord/Telegram/WhatsApp) and AI front-desk for a 4-location restaurant group — automating ~250 monthly bookings and food orders end-to-end.
-- Architected LLM-powered AI layer for WorkMesh — a managed specialist platform: AI-powered team assembly from a 2,000-contractor pool with 2-day onboarding/offboarding cycle. Replaced weeks-long staffing process.
-- Scaled MMO/RPG development division from the ground up: 3× output increase, project delivered 2 weeks late against a 3-month projected delay — compressing slip from 12 weeks to 2.
+Embedded as execution owner, not advisor — parallel engagements across generative content pipelines, multi-agent systems, and game production.
+
+**Generative content pipelines**
+
+- Architected and delivered a generative 3D pipeline for a 10M+ item catalogue, cutting production cost from ~€2.8M to €400K — concept generation through image-to-3D, procedural multiplication, automated QA, and headless rendering. Stack: FLUX + custom LoRA, Rodin / Meshy / Tripo, Blender Geometry Nodes, DINOv3 / VLM validation, Cycles/OptiX, Prefect 3.
+- Designed a dual-track sourcing strategy — commercial enterprise APIs with full IP transfer vs self-hosted open models on rented GPUs (H100/A100) — treating licensing and IP clearance as first-class architecture constraints.
+
+**Multi-agent systems & LLM operations**
+
+- Shipped multi-agent systems to production: a 24/7 AI community host operating live communities across Discord / Telegram / WhatsApp, and an AI front-desk automating ~250 monthly bookings for a 4-location HoReCa group.
+- Designed ENIGMA, a B2B OSINT early-warning platform: 18-agent architecture in 3 layers (ingestion / analysis / delivery) over ~10 public data sources, natural-language monitoring contracts, dual-LLM validation, ~90% deterministic decisioning with LLMs reserved for ambiguous cases.
+- Architected WorkMesh — AI-driven team assembly from a 2,000-contractor pool with a 2-day onboarding cycle.
+- Built a browser-based real-time speech-translation pipeline (EN/PT/RU) for live client calls: dual-channel streaming STT, LLM semantic gating and streaming translation, low-latency TTS routed into the call.
+
+**Game production**
+
+- Scaled an MMO/RPG division from the ground up: rebuilt team and process for 3× output, compressing a projected 3-month slip to 2 weeks.
+- Hybrid-casual: owned monetization, A/B testing, and live launch end-to-end across multiple titles.
 
 ## Career Highlights
 
-- **X-FLOW** (2022–2025) — Head of Production. Led MOBA (Epic Rift) and 4X strategy across 5 countries. €6M+ annual P&L, teams to 80. Delivered MOBA comparable to Wild Rift in 17 months. In-house Stable Diffusion pipeline eliminated €700K in external art costs.
-- **BeatHead** (2021–2022) — Head of Production. 30+ prototypes in 7 months, 18 titles launched. Cross-functional team of 14.
-- **Azur Interactive Games** (2019–2021) — Lead Producer. 20–30 game prototypes monthly. A/B testing, analytics, monetization optimization.
-- **Net Riders** (2017–2019) — CEO. Zero to 16 people in 9 months. Raised $700K seed. Mobile online shooter, 45% D3 retention, 50+ min sessions. Unity-to-Unreal pivot.
-- **Midcore Brothers** (2013–2017) — CEO. Scaled to 41 people. Raised $1.3M. 70+ shipped titles for Big Fish Games across HOPA, Match-3, Mahjong, Solitaire, Slot Machine.
+- **X-FLOW** (2022–2025) — Head of Production. Led operations for a MOBA (Epic Rift) and 4X strategy titles across 5 countries; €6M+ annual P&L, 80 in-house and 150+ total. Delivered a full-featured MOBA comparable to Wild Rift in 17 months — against the 3+ years typical for comparable teams. In-house Stable Diffusion pipeline eliminated €700K in external art costs and cut concept-iteration time by 40%.
+- **BeatHead** (2021–2022) — Head of Production. Built a cross-functional team to 14; shipped 18 hybrid-casual titles from 30+ prototypes in 7 months. Mobile tower defense at 2,000+ units at a stable 60 FPS on Unity.
+- **Azur Interactive Games** (2019–2021) — Lead Producer. Evaluated 20–30 prototypes monthly from global studios; data-driven go/no-go on KPIs and unit economics; retention and LTV optimization across the portfolio.
+- **Net Riders** (2017–2019) — CEO. Founded and scaled a fully remote studio from zero to 16 people in 9 months across 4 countries; raised €1.2M seed. Shipped a publisher-ready mobile shooter MVP at 45% D3 retention and 50+ min sessions; drove a Unity + Photon → Unreal Engine pivot without derailing timeline or budget.
+- **Midcore Brothers** — CEO. Scaled a casual-games studio to 41; 70+ shipped titles; full-cycle production for Big Fish Games (HOPA, Match-3, Mahjong, Solitaire, Slots).
 
 ## Skills
 
-**AI & Production:** AI Pipeline Architecture · Multi-Agent Systems · Generative AI · LLM Orchestration · Agent Operations (AgentOps) · Model Context Protocol (MCP) · AI Agents · Stable Diffusion · AI Product Management
+**AI & Production:** AI Pipeline Architecture · Multi-Agent Systems & Orchestration · Generative AI (2D/3D: FLUX, Stable Diffusion, image-to-3D) · LLM / Agent Operations (AgentOps) · Model Context Protocol (MCP) · RAG · Workflow Orchestration (Prefect) · AI Product Management
 
-**Executive & Operations:** Production Operations · P&L Management · Stakeholder Management · Investor Relations · Cross-functional Team Leadership · Distributed Teams · Risk Management · Data-driven Decision Making
+**Executive & Operations:** Production Operations · P&L Ownership · Launch Strategy · Distributed / Remote Team Leadership · Stakeholder & Investor Relations · Process Design & Scaling · Data-driven Decision-making · Risk Management · Due Diligence
 
-**Domain:** Gaming · Tech Operations · AI-Augmented Production
+**Gaming:** Production Strategy · Roadmap & Resource Planning · Agile / Scrum · LiveOps · Soft Launch · Global Launch · KPI Ownership · Retention · LTV · Monetization · A/B Testing
+
+**Domain:** Gaming (Hybrid-Casual, Casual, Mid-core) · SaaS · Tech Operations · AI-Augmented Production
 
 ## Education
 
-- Master of Laws (Banking, Corporate, Finance, and Securities Law) — Kyiv Institute of Internal Affairs
-- Master of Finance (Banking and Financial Support Services) — Alfred Nobel University
+- Master of Laws — Banking, Corporate, Finance & Securities Law, Kyiv Institute of Internal Affairs
+- Master of Finance — Banking & Financial Services, Alfred Nobel University
 
 ## Certifications
 
-**Anthropic (April 2026):** Building with the Claude API · AI Fluency: Framework & Foundations · Introduction to Agent Skills · Claude Code in Action · Introduction to MCP · MCP: Advanced Topics · Claude 101
+**Anthropic:** Building with the Claude API · AI Fluency: Framework & Foundations · Introduction to Agent Skills · Claude Code in Action · Introduction to MCP · MCP: Advanced Topics · Claude 101
 
-**Other:** Google Project Management Certificate · Google Prompting Essentials · Generative AI for Cybersecurity Professionals Specialization (IBM) · AI in Education: Leveraging ChatGPT for Teaching (UPenn) · Gamification (UPenn) · Game Theory (Stanford University)
+**Other:** Google Project Management Certificate · Google Prompting Essentials · Generative AI for Cybersecurity Professionals Specialization (IBM) · Gamification (UPenn) · Game Theory (Stanford University)
+
+## Languages
+
+English — Full Professional Proficiency · Ukrainian — Native · Russian — Native
 
 ## Links
 
 - 🌐 [alexbakharev.com](https://alexbakharev.com)
+- 🔎 [Escherlock](https://escherlock.com) — Due diligence & OSINT advisory (EU)
 - 💼 [LinkedIn](https://linkedin.com/in/bakharev)
 - 🗂️ [Crunchbase](https://www.crunchbase.com/person/alexander-bakharev)
-- ✉️ iam@alexbakharev.com
+- ✉️ <iam@alexbakharev.com>
