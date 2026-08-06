@@ -1,8 +1,8 @@
 # Alexander Bakharev
 
-## Director of Product · Head of Production | Multi-Agent Systems · Generative AI · MCP | €6M+ P&L | 70+ Shipped Titles
+## Director of Product · Head of Production | Multi-Agent Systems · Generative AI · MCP | 70+ Shipped Titles
 
-15+ years leading production, product delivery, and scale operations across game development and technology. Managed distributed cross-functional teams of up to 150+ and €6M+ P&L, contributed to 70+ shipped titles. Last three years focused on AI-augmented production: multi-agent systems, generative pipelines at 10M+ scale, in-house ML deployments — €3.1M+ in production costs removed across two shipped pipelines. Anthropic-certified across the full Claude / MCP / Agent Skills stack.
+15+ years leading production, product delivery, and scale operations across game development and technology. Managed distributed cross-functional teams of up to 150+, contributed to 70+ shipped titles. Last three years focused on AI-augmented production: multi-agent systems, generative pipelines at 10M+ scale, in-house ML deployments — €3.1M+ in production costs removed across two shipped pipelines. Anthropic-certified across the full Claude / MCP / Agent Skills stack.
 
 ## Current
 
@@ -15,7 +15,7 @@ Coordination Systems Consulting — independent B2B practice, embedded as execut
 
 ## Career Highlights
 
-- **X-FLOW** (Jul 2022 – Jan 2025) — Head of Production. Led MOBA (Epic Rift) and 4X strategy across 5 countries. €6M+ annual P&L, 80 in-house / 150+ total. Delivered a MOBA comparable to Wild Rift in 17 months. In-house Stable Diffusion pipeline eliminated €700K/year in external art costs.
+- **X-FLOW** (Jul 2022 – Jan 2025) — Head of Production. Led MOBA (Epic Rift) and 4X strategy titles. 80 in-house / 150+ total. Delivered a MOBA comparable to Wild Rift in 17 months. In-house Stable Diffusion pipeline eliminated 40%/year in external art costs.
 - **BeatHead** (Apr 2021 – Jun 2022) — Head of Production. 18 titles shipped from 30+ prototypes in 7 months. Cross-functional team of 14.
 - **Azur Interactive Games** (Jul 2019 – Apr 2021) — Lead Producer. 20–30 game prototypes evaluated monthly. A/B testing, analytics, monetization optimization.
 - **Net Riders** (Oct 2017 – May 2019) — CEO. Founded and scaled to 16 people across 4 countries in 9 months. Raised €1.2M seed. Mobile online shooter, 45% D3 retention, 50+ min sessions. Unity + Photon → Unreal Engine pivot.
@@ -23,7 +23,7 @@ Coordination Systems Consulting — independent B2B practice, embedded as execut
 
 ## Skills
 
-**Executive & Operations:** Production Operations · P&L Ownership · Launch Strategy · Distributed / Remote Team Leadership · Stakeholder & Investor Relations · Process Design & Scaling · Data-driven Decision-making · Risk Management · Due Diligence
+**Executive & Operations:** Production Operations · P&L Ownership · Launch Strategy · Distributed / Remote Team Leadership · Stakeholder Relations · Process Design & Scaling · Data-driven Decision-making · Risk Management · Due Diligence
 
 **AI & Production:** AI Pipeline Architecture · Multi-Agent Systems & Orchestration · Generative AI (FLUX, Stable Diffusion, image-to-3D) · LLM / Agent Operations (AgentOps) · Model Context Protocol (MCP) · RAG · Workflow Orchestration (Prefect) · AI Product Management
 
