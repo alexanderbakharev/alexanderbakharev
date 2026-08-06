@@ -1,6 +1,6 @@
 # Alexander Bakharev
 
-## Director of Product · Head of Production | Multi-Agent Systems · Generative AI · MCP | 70+ Shipped Titles
+## Director of Product · Head of Production | AI-Augmented Production · 70+ Shipped Titles
 
 15+ years leading production, product delivery, and scale operations across game development and technology. Managed distributed cross-functional teams of up to 150+, contributed to 70+ shipped titles. Last three years focused on AI-augmented production: multi-agent systems, generative pipelines at 10M+ scale, in-house ML deployments — €3.1M+ in production costs removed across two shipped pipelines. Anthropic-certified across the full Claude / MCP / Agent Skills stack.
 
@@ -18,8 +18,9 @@ Coordination Systems Consulting — independent B2B practice, embedded as execut
 - **X-FLOW** (Jul 2022 – Jan 2025) — Head of Production. Led MOBA (Epic Rift) and 4X strategy titles. 80 in-house / 150+ total. Delivered a MOBA comparable to Wild Rift in 17 months. In-house Stable Diffusion pipeline eliminated 40%/year in external art costs.
 - **BeatHead** (Apr 2021 – Jun 2022) — Head of Production. 18 titles shipped from 30+ prototypes in 7 months. Cross-functional team of 14.
 - **Azur Interactive Games** (Jul 2019 – Apr 2021) — Lead Producer. 20–30 game prototypes evaluated monthly. A/B testing, analytics, monetization optimization.
-- **Net Riders** (Oct 2017 – May 2019) — CEO. Founded and scaled to 16 people across 4 countries in 9 months. Raised €1.2M seed. Mobile online shooter, 45% D3 retention, 50+ min sessions. Unity + Photon → Unreal Engine pivot.
-- **Midcore Brothers** (earlier) — CEO. Scaled to 41 people; 70+ shipped titles for Big Fish Games across HOPA, Match-3, Mahjong, Solitaire, Slots.
+- **Net Riders** (Oct 2017 – May 2019) — Co-founder & CEO. Founded and scaled to 16 people across 4 countries in 9 months. Raised $1.3M seed. Mobile online shooter, 45% D3 retention, 50+ min sessions. Unity + Photon → Unreal Engine pivot.
+- **Midcore Brothers** — CEO. Scaled to 41 people; 70+ shipped titles for Big Fish Games across HOPA, Match-3, Mahjong, Solitaire, Slots.
+- **Hooligans Entertainment** — Co-founder & CEO. Raised $1.2M in seed investment. 
 
 ## Skills
 
