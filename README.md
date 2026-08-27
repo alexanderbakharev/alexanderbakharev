@@ -1,49 +1,95 @@
 # Alexander Bakharev
 
-## Director of Product · Head of Production | AI-Augmented Production · 70+ Shipped Titles
+## Production Director | Game Development · 0-to-1 · P&L Ownership
 
-15+ years leading production, product delivery, and scale operations across game development and technology. Managed distributed cross-functional teams of up to 150+, contributed to 70+ shipped titles. Last three years focused on AI-augmented production: multi-agent systems, generative pipelines at 10M+ scale, in-house ML deployments — €3.1M+ in production costs removed across two shipped pipelines. Anthropic-certified across the full Claude / MCP / Agent Skills stack.
+Production Director with 15+ years building and scaling multidisciplinary product organizations and taking products from concept to launch.
 
-## Current
+Led distributed teams of **50–150 in-house and external contributors** across **50+ commercial releases**. Builds and restructures production functions, manages directors and senior PMs, and establishes org design, planning, reporting and delivery governance.
 
-Coordination Systems Consulting — independent B2B practice, embedded as execution owner for product leadership, production transformation, and AI-enabled operations.
+Owns budgets, capacity, milestones, dependencies and risk. Founder and CEO roles included full **P&L ownership**.
 
-- Architected and delivered a generative 3D content pipeline for a 10M+ item catalogue, reducing projected production cost from a €2.8M baseline to €400K.
-- Built ENIGMA, a B2B OSINT early-warning system: 18-agent architecture across ingestion, analysis, and delivery; natural-language monitoring contracts over public data sources; dual-LLM validation; deterministic decision layer.
-- Built WorkMesh, an AI-driven team assembly system for a 2,000-contractor pool — candidate matching, team composition, onboarding logic, 2-day onboarding cycle.
-- Scaled an MMO/RPG division from the ground up: rebuilt team structure and production process; 3× output increase, projected 3-month slip compressed to 2 weeks.
+**Portugal · EU Resident · B2B-ready**
 
-## Career Highlights
+## Selected Outcomes
 
-- **X-FLOW** (Jul 2022 – Jan 2025) — Head of Production. Led MOBA (Epic Rift) and 4X strategy titles. 80 in-house / 150+ total. Delivered a MOBA comparable to Wild Rift in 17 months. In-house Stable Diffusion pipeline eliminated 40%/year in external art costs.
-- **BeatHead** (Apr 2021 – Jun 2022) — Head of Production. 18 titles shipped from 30+ prototypes in 7 months. Cross-functional team of 14.
-- **Azur Interactive Games** (Jul 2019 – Apr 2021) — Lead Producer. 20–30 game prototypes evaluated monthly. A/B testing, analytics, monetization optimization.
-- **Net Riders** (Oct 2017 – May 2019) — Co-founder & CEO. Founded and scaled to 16 people across 4 countries in 9 months. Raised $1.3M seed. Mobile online shooter, 45% D3 retention, 50+ min sessions. Unity + Photon → Unreal Engine pivot.
-- **Midcore Brothers** — CEO. Scaled to 41 people; 70+ shipped titles for Big Fish Games across HOPA, Match-3, Mahjong, Solitaire, Slots.
-- **Hooligans Entertainment** — Co-founder & CEO. Raised $1.2M in seed investment. 
+* Reworked a proposed **€2.8M online architecture** for a **10M+ asset production pipeline** into a client-accepted local-deployment version projected at **€400K**, covering automated QA, AI-assisted validation and rendering.
+* Designed and delivered a **staffing marketplace for a 2,000+ candidate pool**, enabling clients to configure teams and onboard selected specialists within **two days**; now in production use.
+* Rebuilt an **MMO/RPG production pipeline in two months** by mapping discipline workflows, removing handoff bottlenecks and sequencing work across departments.
+* At X-FLOW, managed a distributed development organization of **50–150 contributors through six senior functional leads**, owning budgets, capacity, resource planning, milestones and delivery risk.
+* Brought **Epic Rift**, a Unity / Quantum / Photon MMO RPG, to a playable internal build in **17 months**.
 
-## Skills
+## Experience
 
-**Executive & Operations:** Production Operations · P&L Ownership · Launch Strategy · Distributed / Remote Team Leadership · Stakeholder Relations · Process Design & Scaling · Data-driven Decision-making · Risk Management · Due Diligence
+### Production Director · Independent Consultant
 
-**AI & Production:** AI Pipeline Architecture · Multi-Agent Systems & Orchestration · Generative AI (FLUX, Stable Diffusion, image-to-3D) · LLM / Agent Operations (AgentOps) · Model Context Protocol (MCP) · RAG · Workflow Orchestration (Prefect) · AI Product Management
+**Coordination Systems Consulting | Feb 2025 – Present**
 
-**Domain:** Gaming (Hybrid-Casual, Casual, Mid-core) · SaaS · Tech Operations · AI-Augmented Production
+Production leadership and delivery across game development and complex production systems.
+
+Work includes production transformation for an MMO/RPG organization, delivery leadership for hybrid-casual and MOBA projects, a generative production pipeline for a 10M+ asset catalogue, and a production staffing system serving a 2,000+ candidate pool.
+
+### Product Owner
+
+**X-FLOW | Jul 2022 – Jan 2025**
+
+Managed a 50–150-person distributed development organization through six senior functional leads. Owned leadership changes, development budgets, capacity, resource planning, vendor costs, milestones and delivery risk across Epic Rift and a 4X strategy project.
+
+Deployed an in-house Stable Diffusion pipeline with custom training, reducing concept-iteration time by **40%**.
+
+### Head of Production
+
+**BeatHead | Apr 2021 – Jun 2022**
+
+Built a cross-functional team from zero to 14, selected functional leads and established the producer / PM structure. Managed **30+ prototypes** through rapid market validation using A/B testing, cohort analysis, retention, LTV, monetization and unit economics.
+
+### Lead Producer
+
+**Azur Interactive Games | Jul 2019 – Apr 2021**
+
+Owned the external-development pipeline for **20–30 prototypes per month**, from concept evaluation through soft launch, including schedules, milestones, portfolio risk and publisher-studio relationships.
+
+### Founder & CEO
+
+**Net Riders | Oct 2017 – May 2019**
+
+Founded and scaled a fully remote studio from zero to **16 people across four countries**, secured **US$1.3M** in external investment and owned P&L, budgets, runway, payroll, resource allocation and studio operations.
+
+Product testing reached **45% D3 retention** and **50+ minute sessions**.
+
+### CEO
+
+**Midcore Brothers | Mar 2013 – Oct 2017**
+
+Scaled a casual/midcore studio to **41 people**, owned full P&L, matched staffing to contracted work and oversaw approximately **40 titles**.
+
+### Co-founder & CEO
+
+**Hooligans Entertainment | 2010 – Feb 2013**
+
+Built and led a **21-title** game portfolio, secured **US$1.2M** in external investment and held full P&L responsibility.
+
+## Core Expertise
+
+**Organization Design & Leadership**
+0-to-1 Team Building · Production Org Design & Restructuring · Manager-of-Managers · Leadership Team Selection · Performance & Succession Management · Producer / PM Operating Model · Distributed & External Development
+
+**Production & Delivery**
+Multi-Project Delivery · Budget & Capacity Ownership · Resource Planning · Milestones & Dependencies · Delivery Governance · Risk Management · Stakeholder Management · P&L Ownership
+
+**Product Economics & User Value**
+Monetization Strategy · Economy & Progression Design · Player / User Segmentation · Cohort Monetization · Retention & Churn Reduction · Engagement Growth · LTV Optimization · A/B Testing · Unit Economics
 
 ## Education
 
-- Master of Laws (Banking, Corporate, Finance & Securities Law) — Kyiv Institute of Internal Affairs
-- Master of Finance (Banking & Financial Services) — Alfred Nobel University
+**Master of Laws** — Banking, Corporate, Finance & Securities Law
+Kyiv Institute of Internal Affairs
 
-## Certifications
-
-**Anthropic (April 2026):** Building with the Claude API · AI Fluency: Framework & Foundations · Introduction to Agent Skills · Claude Code in Action · Introduction to MCP · MCP: Advanced Topics · Claude 101
-
-**Other:** Google Project Management · Google Prompting Essentials · Generative AI for Cybersecurity Professionals (IBM) · AI in Education (UPenn) · Gamification (UPenn) · Game Theory (Stanford)
+**Master of Finance** — Banking & Financial Services
+Alfred Nobel University
 
 ## Links
 
-- 🌐 [alexbakharev.com](https://alexbakharev.com)
-- 💼 [LinkedIn](https://linkedin.com/in/bakharev)
-- 🗂️ [Crunchbase](https://www.crunchbase.com/person/alexander-bakharev)
-- ✉️ <alexander.bakharev@pm.me>
+* 🌐 [alexbakharev.com](https://alexbakharev.com/)
+* 💼 [LinkedIn](https://linkedin.com/in/bakharev)
+* 🗂️ [Crunchbase](https://www.crunchbase.com/person/alexander-bakharev)
+* ✉️ [alexander.bakharev@pm.me](mailto:alexander.bakharev@pm.me)
