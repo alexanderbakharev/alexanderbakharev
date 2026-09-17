@@ -1,95 +1,85 @@
-# Alexander Bakharev
+# Hi, I'm Alexander Bakharev
 
-## Production Director | Game Development · 0-to-1 · P&L Ownership
+### Senior Product Owner | Product Development & Delivery
 
-Production Director with 15+ years building and scaling multidisciplinary product organizations and taking products from concept to launch.
+I’m a Senior Product Owner with 15+ years of experience across product development, software and game production, and founder-led product organizations.
 
-Led distributed teams of **50–150 in-house and external contributors** across **50+ commercial releases**. Builds and restructures production functions, manages directors and senior PMs, and establishes org design, planning, reporting and delivery governance.
+I own product priorities, backlog, roadmaps, epics, user stories, and feature definition, with final prioritization responsibility and direct accountability to CEOs and stakeholders.
 
-Owns budgets, capacity, milestones, dependencies and risk. Founder and CEO roles included full **P&L ownership**.
-
-**Portugal · EU Resident · B2B-ready**
+My background combines hands-on Product Ownership with product analytics, commercial decision-making, large-scale cross-functional delivery, portfolio management, and organizational leadership.
 
 ## Selected Outcomes
 
-* Reworked a proposed **€2.8M online architecture** for a **10M+ asset production pipeline** into a client-accepted local-deployment version projected at **€400K**, covering automated QA, AI-assisted validation and rendering.
-* Designed and delivered a **staffing marketplace for a 2,000+ candidate pool**, enabling clients to configure teams and onboard selected specialists within **two days**; now in production use.
-* Rebuilt an **MMO/RPG production pipeline in two months** by mapping discipline workflows, removing handoff bottlenecks and sequencing work across departments.
-* At X-FLOW, managed a distributed development organization of **50–150 contributors through six senior functional leads**, owning budgets, capacity, resource planning, milestones and delivery risk.
-* Brought **Epic Rift**, a Unity / Quantum / Photon MMO RPG, to a playable internal build in **17 months**.
-
-## Experience
-
-### Production Director · Independent Consultant
-
-**Coordination Systems Consulting | Feb 2025 – Present**
-
-Production leadership and delivery across game development and complex production systems.
-
-Work includes production transformation for an MMO/RPG organization, delivery leadership for hybrid-casual and MOBA projects, a generative production pipeline for a 10M+ asset catalogue, and a production staffing system serving a 2,000+ candidate pool.
-
-### Product Owner
-
-**X-FLOW | Jul 2022 – Jan 2025**
-
-Managed a 50–150-person distributed development organization through six senior functional leads. Owned leadership changes, development budgets, capacity, resource planning, vendor costs, milestones and delivery risk across Epic Rift and a 4X strategy project.
-
-Deployed an in-house Stable Diffusion pipeline with custom training, reducing concept-iteration time by **40%**.
-
-### Head of Production
-
-**BeatHead | Apr 2021 – Jun 2022**
-
-Built a cross-functional team from zero to 14, selected functional leads and established the producer / PM structure. Managed **30+ prototypes** through rapid market validation using A/B testing, cohort analysis, retention, LTV, monetization and unit economics.
-
-### Lead Producer
-
-**Azur Interactive Games | Jul 2019 – Apr 2021**
-
-Owned the external-development pipeline for **20–30 prototypes per month**, from concept evaluation through soft launch, including schedules, milestones, portfolio risk and publisher-studio relationships.
-
-### Founder & CEO
-
-**Net Riders | Oct 2017 – May 2019**
-
-Founded and scaled a fully remote studio from zero to **16 people across four countries**, secured **US$1.3M** in external investment and owned P&L, budgets, runway, payroll, resource allocation and studio operations.
-
-Product testing reached **45% D3 retention** and **50+ minute sessions**.
-
-### CEO
-
-**Midcore Brothers | Mar 2013 – Oct 2017**
-
-Scaled a casual/midcore studio to **41 people**, owned full P&L, matched staffing to contracted work and oversaw approximately **40 titles**.
-
-### Co-founder & CEO
-
-**Hooligans Entertainment | 2010 – Feb 2013**
-
-Built and led a **21-title** game portfolio, secured **US$1.2M** in external investment and held full P&L responsibility.
+* Defined and delivered a **staffing marketplace for a 2,000+ candidate pool**, now in production use.
+* Rebuilt an **MMO/RPG development pipeline in two months**, increasing development output **3x** and reducing a projected three-month delay to two weeks.
+* Led product development of **Epic Rift**, taking a Unity / Quantum / Photon MMO RPG to a playable internal build in **17 months**.
+* Reworked a proposed **€2.8M architecture for a 10M+ asset pipeline** into a client-accepted local deployment projected at **€400K**.
+* Led distributed cross-functional development organizations of **50–150 internal and external contributors**.
+* Built and scaled development organizations from zero across multiple companies and product environments.
+* Owned product, portfolio, budget, and commercial decisions across **50+ commercial releases**.
+* Secured and managed more than **$2.5M in external investment** across founder-led companies.
 
 ## Core Expertise
 
-**Organization Design & Leadership**
-0-to-1 Team Building · Production Org Design & Restructuring · Manager-of-Managers · Leadership Team Selection · Performance & Succession Management · Producer / PM Operating Model · Distributed & External Development
+**Product Ownership & Strategy**
+Product strategy · Product prioritization · Roadmap ownership · Backlog ownership · Product requirements · Epics & user stories · Feature definition · Product validation · Stakeholder alignment
 
-**Production & Delivery**
-Multi-Project Delivery · Budget & Capacity Ownership · Resource Planning · Milestones & Dependencies · Delivery Governance · Risk Management · Stakeholder Management · P&L Ownership
+**Product Analytics & Commercial Decisions**
+A/B testing · Product analytics · Cohort analysis · Retention · LTV · Monetization · Unit economics · KPI ownership · Go/No-Go decisions · Investment prioritization
 
-**Product Economics & User Value**
-Monetization Strategy · Economy & Progression Design · Player / User Segmentation · Cohort Monetization · Retention & Churn Reduction · Engagement Growth · LTV Optimization · A/B Testing · Unit Economics
+**Product Development & Delivery**
+Cross-functional development · Capacity and resource planning · Estimation · Milestones and dependencies · Release planning · Launch readiness · Delivery risk · Recovery of slipping workstreams
 
-## Education
+**Leadership & Operating Model**
+Distributed organizations of 50–150 contributors · Senior PM and functional lead management · Vendor and external development management · Multi-team coordination · Organizational scaling · Process redesign
 
-**Master of Laws** — Banking, Corporate, Finance & Securities Law
-Kyiv Institute of Internal Affairs
+**Business & Portfolio Management**
+P&L ownership · Development budgets · Portfolio prioritization · Publisher and investor relations · Commercial trade-offs · Resource allocation · Product portfolio evaluation
 
-**Master of Finance** — Banking & Financial Services
-Alfred Nobel University
+**Technical Product Environment**
+Mobile and PC products · F2P and live products · Multiplayer systems · Unity · Photon / Quantum · AI-assisted production pipelines · Automated QA · Large-scale content pipelines
 
-## Links
+## Current Role
 
-* 🌐 [alexbakharev.com](https://alexbakharev.com/)
-* 💼 [LinkedIn](https://linkedin.com/in/bakharev)
-* 🗂️ [Crunchbase](https://www.crunchbase.com/person/alexander-bakharev)
-* ✉️ [alexander.bakharev@pm.me](mailto:alexander.bakharev@pm.me)
+### Product Development Consultant
+
+**Coordination Systems Consulting · Remote EU**
+
+I work across product development, prioritization, analytics, delivery systems, and complex cross-functional initiatives.
+
+Recent work includes:
+
+* Defining and delivering a staffing marketplace for a 2,000+ candidate pool.
+* Translating product intent into initiatives, epics, priorities, and executable development scope.
+* Supporting hybrid-casual and mobile products through A/B testing, cohort analysis, monetization signals, and launch decisions.
+* Rebuilding development pipelines and recovering slipping workstreams through capacity reallocation and process redesign.
+* Designing AI-assisted and automated production workflows for large-scale content pipelines.
+
+## Background
+
+Before consulting, I worked as **Product Owner, Head of Production, Lead Producer, Founder & CEO, and Project Manager / Investor** across product companies, game studios, and publishing organizations.
+
+My experience includes:
+
+* Owning product priorities, backlog, and roadmap for complex multiplayer products.
+* Managing development budgets, capacity, estimation, vendors, dependencies, and release risk.
+* Evaluating and prioritizing portfolios of mobile products using retention, LTV, monetization, and unit economics.
+* Scaling distributed teams and organizations across multiple countries.
+* Managing external development studios, publishers, investors, and strategic partners.
+* Building companies and development teams from zero.
+* Taking products from concept and validation through production, soft launch, release, and scaling.
+
+## Product Domains
+
+* Software products
+* Mobile and PC games
+* F2P and live products
+* Multiplayer systems
+* Hybrid-casual and casual products
+* Marketplaces
+* AI-assisted production systems
+* Large-scale content and asset pipelines
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/bakharev) · [Email](mailto:alexander.bakharev@pm.me)
